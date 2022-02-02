@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ScorbunnyLovesYou
+- 👀 I’m interested in... Discord bot!
+- 🌱 I’m currently learning... Js
+- 💞️ I’m looking to collaborate on... Projects
+- 📫 How to reach me... You can join my discord: https://discord.gg/j3tUN2ZJ3j
